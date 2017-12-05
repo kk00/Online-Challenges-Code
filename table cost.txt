@@ -1,3 +1,8 @@
+
+Amazon hiring challenge in https://www.hackerearth.com/  on oct 28 
+                              
+========================================================
+
 Ad-optimization team is moving to their new office Safina Towers :) . But the problem is Safina towers don't have furniture, but you have wood-sheet.
  You are given a wood-sheet of length L . Since everyone wants to create their desk in their own style you have to give them some amount of wood.
  So, you are given N mark-down points (since ad-optimization team have n members) from that points you have to cut the wood sheet.
@@ -42,7 +47,8 @@ Note: Your code should be able to convert the sample input into the sample outpu
 ==========================================================================
 
 
-
+code
+=======
 
 
 test_cases=int(input())
